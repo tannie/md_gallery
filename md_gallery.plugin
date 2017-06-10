@@ -1,0 +1,13 @@
+[Core]
+name = md_gallery
+module = md_gallery
+
+[Nikola]
+compiler = markdown
+plugincategory = CompilerExtension
+
+[Documentation]
+author = Tanja Orme
+version = 0.1
+description = A directive to embed an image gallery in a markdown document
+
